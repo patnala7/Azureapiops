@@ -1,1 +1,12 @@
 
+apimServiceName: [dev apim instance ]
+namedValues:
+   
+loggers:
+
+diagnostics:
+
+backends:
+
+apis:
+  
